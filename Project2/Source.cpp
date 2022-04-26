@@ -1139,6 +1139,16 @@ void main()
 
 
     }
+    /*
+    * 
+    * 
+    * 
+    * 
+    * 
+    * cxcx
+    * 
+    * /
+    */ 
 win:
     nyazi.delete_Printlist_user(ptru);
     nyazi.delete_Printlist_comp(ptrc);
@@ -1175,10 +1185,3 @@ void gotoxy(short x, short y)           //Introduction of gotoxy function//
 * 
 * 
 * 
-* 
-* 
-* dvdvd
-* v
-* dvdfv
-* dvfdvdf
-* v*/
