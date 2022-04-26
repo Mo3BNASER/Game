@@ -1163,3 +1163,22 @@ void gotoxy(short x, short y)           //Introduction of gotoxy function//
     COORD c = { x, y };
     SetConsoleCursorPosition(h, c);
 }
+/*
+* kskvsmvlsv
+* flvmsvlsv
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* dvdvd
+* v
+* dvdfv
+* dvfdvdf
+* v*/
